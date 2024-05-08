@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MangeProject App
 
 <h3>Description</h3>
@@ -107,3 +108,7 @@ Please click the back button of the browser to go back to previous page. Refresh
 
 <h2>Forthcoming Features</h2>
 In the future, we need users to be able to create multiple task boards. In addition, we need to enable users invite someone and add other collaborators to the app. We may also add chat rooms and make commenting functionality.
+=======
+# MangeProject---Front-End
+Front - End of MangeProject App
+>>>>>>> 6e7c7ee9f6ad1919d6d96ef0e5f2ec25491ea43f
