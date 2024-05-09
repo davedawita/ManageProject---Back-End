@@ -4,7 +4,7 @@
 
 ManageProject is an application that can be utilized by users who need to mange their projects specifically for those working in software engineering.
 
-The manageProject app has two repositories:
+The manageProject app has two repositories:</br>
  - MangeProject---Front-End: is for front-end of the app with React (No EJS)
  - MangeProject ---Back-End: is for back-end of the app with with mongoose
 
