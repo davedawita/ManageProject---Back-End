@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MangeProject App
 
 <h3>Description</h3>
