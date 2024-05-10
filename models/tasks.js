@@ -3,8 +3,8 @@ const mongoose = require('mongoose')
 const taskSchema = new mongoose.Schema({
     title: {type: String, required: true},
     description: String,
-    dateCreated: {type: Date, default: Date.now, required: true},
-    dateDue: {type: Date, required: true},
+    dateCreated: {type: String, required: true},
+    dateDue: {type: String, required: true},
     status: {type: String, enum: ['To Do', 'Doing', 'Done'], required: true}
 })
 
