@@ -15,7 +15,7 @@ Users will need to signup and login if they need to access the app.
  <h3>Wireframes</h3>
  - Please see the wireframe for the Create Account/Login page below: </br></br>
  
-![image](https://github.com/davedawita/ManageProject---Back-End/assets/155693018/e174224c-4028-4ef4-ac6c-8829c07135f6)
+![image](https://github.com/davedawita/ManageProject---Back-End/assets/155693018/6bc46686-23c6-4bbb-9bc3-f0e4179bc0b7)
 
 
  - Please see the wireframe for the index page below: </br></br>
