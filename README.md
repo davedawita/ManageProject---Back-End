@@ -15,7 +15,10 @@ Users will need to signup and login if they need to access the app.
  <h3>Wireframes</h3>
  - Please see the wireframe for the Create Account/Login page below: </br></br>
  
-![image](https://github.com/davedawita/ManageProject---Back-End/assets/155693018/6bc46686-23c6-4bbb-9bc3-f0e4179bc0b7)
+
+![image](https://github.com/davedawita/ManageProject---Back-End/assets/155693018/fb346d60-8ded-4d2f-8884-485f5ea7a19c)
+
+
 
 
  - Please see the wireframe for the index page below: </br></br>
@@ -104,7 +107,7 @@ Please click the back button of the browser to go back to previous page. Refresh
 
 <h2>Forthcoming Features</h2>
 In the future, we need users to be able to create multiple task boards. In addition, we need to enable users invite someone and add other collaborators to the app. We may also add chat rooms and make commenting functionality.
-=======
+
 # MangeProject---Front-End
 Front - End of MangeProject App
->>>>>>> 6e7c7ee9f6ad1919d6d96ef0e5f2ec25491ea43f
+

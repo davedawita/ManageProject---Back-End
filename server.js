@@ -8,8 +8,9 @@ const cors = require('cors')
 ///////////////////////////////
 // MiddleWare
 ////////////////////////////////
-app.use(cors())
+
 app.use(express.json())
+app.use(cors())
 
 ///////////////////////////////
 // DATABASE CONNECTION
@@ -25,6 +26,9 @@ mongoose.connection
 ////////////////////////////////
 const tasksController = require('./controllers/tasks.js')
 app.use('/tasks', tasksController)
+
+const userController = require('./controllers/users.js')
+app.use('/', userController)
 
 ///////////////////////////////
 // LISTENER
