@@ -13,6 +13,9 @@ Users will need to signup and login if they need to access the app.
 
  <h2> ManageProject---Front-End </h2></br>
  <h3>Wireframes</h3>
+ The front-end repository can be accessed through the link below: </br> </br>
+ https://github.com/davedawita/ManageProject---Front-End.git  </br> </br>
+ 
  - Please see the wireframe for the Create Account/Login page below: </br></br> 
 
 ![image](https://github.com/davedawita/ManageProject---Front-End/assets/155693018/e5ae9793-1608-47ab-afcf-24db53e466f7)
@@ -87,10 +90,11 @@ handleLogout() function on the front-end allows users to logout</br></br>
 
 
 <h2>Installation Instructions</h2>
- - Please use the link below to install the app. Enjoy the app!   </br>
+ - Please use the link below to install the app. Enjoy the app!   </br> </br>
+ https://manage-project-app.netlify.app <br> </br>
+
  
- 
- - If you are on a browser, use of Google chrome is highly recommended.    </br>
+If you are on a browser, use of Google chrome is highly recommended.    </br>
 <h2>Technologies used</h2>
 REACT, Javascript, Node.js, CSS, ejs, Express, MongoDB, Mongoose, Postman, and Figma(Only for wireframes without Dev Mode). We can also say that we use MERN (Mongodb, Express, React, Node.js) stack.  </br>
 
